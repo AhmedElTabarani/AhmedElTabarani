@@ -10,9 +10,9 @@
 <div dir = ltr>
   
 ```js
-Database db;
-Person me = db.getInformationAbout("Ahmed El-Tabarani");
-cout << me.ToString();
+Database database;
+Person person = database.getInformationAbout("Ahmed El-Tabarani");
+cout << person.ToString();
 ```
 #### Output:
 ```swift
@@ -28,8 +28,8 @@ Faculty : Faculty of Computer and Information
   
 ```js
 Database db;
-Person me = db.getSkillsAbout("Ahmed El-Tabarani");
-cout << me.ToString();
+Person person = database.getSkillsAbout("Ahmed El-Tabarani");
+cout << person.ToString();
 ```
 #### Output:
 ```swift
@@ -44,11 +44,11 @@ Tools :      ["VsCode", "Git/Github", "Godot"]
 </div>
 
 ## احصائياتي
-
+<!-- 
 <a href="https://github.com/AhmedElTabarani">
   <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElTabarani&theme=react&layout=compact"/>
   <img height="150em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=AhmedElTabarani&show_icons=true&theme=react&include_all_commits=true"/>
-</a>
+</a> -->
 
 ---
 
@@ -56,17 +56,20 @@ Tools :      ["VsCode", "Git/Github", "Godot"]
   
 ```js
 Quran quran("An-Nahl", 97);
-cout << quran.text("Arabic") <<'\n'<< quran.text("English");
+cout << quran.text("Arabic")  <<"\n\n"
+     << quran.text("English") <<'\n';
 ```
 #### Output:
-<div align = "center">
+<div align = "center" style="font-size:15px">
+  
+<pre>
 
-```
 مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
 Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life,  
 and We will certainly reward them according to the best of their deeds.
-```
+</pre>
+
 </div>
 
 </div>
