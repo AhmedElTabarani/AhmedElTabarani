@@ -52,6 +52,8 @@ Tools :      ["VsCode", "Git/Github", "Godot"]
 
 ---
 
+<div dir = ltr>
+  
 ```js
 Quran quran("An-Nahl", 97);
 cout << quran.text("Arabic") <<'\n'<< quran.text("English");
@@ -65,6 +67,8 @@ cout << quran.text("Arabic") <<'\n'<< quran.text("English");
 Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life,  
 and We will certainly reward them according to the best of their deeds.
 ```
+</div>
+
 </div>
 
 </div>
