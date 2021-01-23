@@ -46,8 +46,8 @@ Tools :      ["VsCode", "Git/Github", "Godot"]
 ## احصائياتي
 
 <a href="https://github.com/AhmedElTabarani">
-  <img height="180em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElTabarani&theme=react&layout=compact"/>
-  <img height="180em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=AhmedElTabarani&show_icons=true&theme=react&include_all_commits=true"/>
+  <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElTabarani&theme=react&layout=compact"/>
+  <img height="150em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=AhmedElTabarani&show_icons=true&theme=react&include_all_commits=true"/>
 </a>
 
 ---
