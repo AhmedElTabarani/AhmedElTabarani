@@ -7,10 +7,6 @@
 </span>
 
 ## من أنا؟
-<span dir = ltr>
-
-## Who I Am ?
-</span>
 
 <div dir = ltr>
   
@@ -30,10 +26,6 @@ Faculty : Faculty of Computer and Information
 </div>
 
 ## مهاراتي
-<span dir = ltr>
-
-## Skills
-</span>
 
 <div dir = ltr>
   
@@ -55,10 +47,6 @@ Tools :      ["VsCode", "Git/Github", "Godot"]
 </div>
 
 ## احصائياتي 
-<span dir = ltr>
-
-## State
-</span>
 
 <a href="https://github.com/AhmedElTabarani">
   <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElTabarani&theme=react&layout=compact"/>
