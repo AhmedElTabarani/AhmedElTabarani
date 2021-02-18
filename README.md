@@ -6,7 +6,12 @@
 # مرحبًا بالجميع، أنا أحمد الطبراني
 </span>
 
-## Who I am - من أنا؟
+## من أنا؟
+<span dir = ltr>
+
+## Who I Am ?
+</span>
+
 <div dir = ltr>
   
 ```js
@@ -24,7 +29,12 @@ Faculty : Faculty of Computer and Information
 ```
 </div>
 
-## Skills - مهاراتي
+## مهاراتي
+<span dir = ltr>
+
+## Skills
+</span>
+
 <div dir = ltr>
   
 ```js
@@ -44,7 +54,12 @@ Tools :      ["VsCode", "Git/Github", "Godot"]
   
 </div>
 
-## Stats - احصائياتي 
+## احصائياتي 
+<span dir = ltr>
+
+## State
+</span>
+
 <a href="https://github.com/AhmedElTabarani">
   <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElTabarani&theme=react&layout=compact"/>
   <img height="150em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=AhmedElTabarani&show_icons=true&theme=react&include_all_commits=true"/>
