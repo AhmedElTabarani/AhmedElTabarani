@@ -3,7 +3,7 @@
 <span dir = rtl align = "center">
   
 # السلام عليكم ورحمة الله وبركاته 
-# مرحبًا بالجميع، أُدعى أحمد الطبراني
+# مرحبًا بالجميع، أنا أحمد الطبراني
 </span>
 
 ## من أنا؟
@@ -18,6 +18,7 @@ cout << person.ToString();
 ```swift
 Name: Ahmed Moustafa Kamal El-Deen El-Tabarani
 Age : 20
+Address : Egypy, North Sinai, Al-Arish
 University : Suez Canal University
 Faculty : Faculty of Computer and Information
 ```
@@ -58,18 +59,17 @@ Quran quran("An-Nahl", 97);
 cout << quran.text("Arabic")  <<"\n\n"
      << quran.text("English") <<'\n';
 ```
+</div>
+
 #### Output:
 <div align = "center" style="font-size:18px">
   
-<pre>
-
+```
 مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
 Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life,  
 and We will certainly reward them according to the best of their deeds.
-</pre>
-
-</div>
+```
 
 </div>
 
