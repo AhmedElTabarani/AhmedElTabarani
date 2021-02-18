@@ -59,9 +59,10 @@ Quran quran("An-Nahl", 97);
 cout << quran.text("Arabic")  <<"\n\n"
      << quran.text("English") <<'\n';
 ```
+#### Output:
+
 </div>
 
-#### Output:
 <div align = "center" style="font-size:18px">
   
 ```
