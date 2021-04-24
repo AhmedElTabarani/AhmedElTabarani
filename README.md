@@ -4,6 +4,10 @@
   
 # السلام عليكم ورحمة الله وبركاته 
 # مرحبًا بالجميع، أنا أحمد الطبراني
+
+مهتم بتعلم اشياء جديدة وعمل مشاريع تفيد الغير  
+مهتم بتطوير الالعاب ومجالاتها
+
 </span>
 
 ## من أنا؟
@@ -32,20 +36,18 @@ Dept: CS
 ```js
 Database database;
 Person person = database.getSkillsAbout("Ahmed El-Tabarani");
-cout << person.ToString();
+cout << person.ToJSON();
 ```
 #### Output:
-```swift
-Languages: ["C/C++", "Javascript"],
-Skills: ["ProblemSolving", "DataStructures", "Algorithms", "Databases"],
-Frameworks/Tech: ["NodeJs/Express"],
-Tools: ["VsCode", "Git/Github", "Postman", "Godot/GDScript"]
-
-NextLearning: ["Typescript", "MongoDB", "REST API"]
+```json
+{
+  "Languages": ["C/C++", "Javascript"],
+  "Skills": ["ProblemSolving", "DataStructures", "Algorithms", "Databases"],
+  "Frameworks/Tech": ["NodeJs/Express"], ["Godot/GDScript"],
+  "Tools": ["VsCode", "Git/Github", "Postman"],
+  "NextLearning": ["Typescript", "MongoDB", "RESTfull API"]
+}
 ```
-</div>
-<div dir = ltr>
-  
 </div>
 
 ## احصائياتي 
