@@ -43,7 +43,7 @@ cout << person.ToJSON();
 {
   "Languages": ["C/C++", "Javascript"],
   "Skills": ["ProblemSolving", "DataStructures", "Algorithms", "Databases"],
-  "Frameworks/Tech": ["NodeJs/Express"], ["Godot/GDScript"],
+  "Frameworks/Tech": ["NodeJs/Express", "Godot/GDScript"],
   "Tools": ["VsCode", "Git/Github", "Postman"],
   "NextLearning": ["Typescript", "MongoDB", "RESTfull API"]
 }
