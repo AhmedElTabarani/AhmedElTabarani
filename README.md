@@ -3,40 +3,22 @@
 <span dir = rtl align = "center">
   
 # السلام عليكم ورحمة الله وبركاته 
-# مرحبًا بالجميع، أنا أحمد الطبراني
 
-مهتم بتعلم اشياء جديدة وعمل مشاريع تفيد الغير  
-مهتم بتطوير الالعاب ومجالاتها
+درست علوم حاسب في جامعة قناة السويس  
+اسعى لتعلم كل ما هو جديد وأعلمه وافيد به نفسي والأخرين  
+مهتم بمجال الألعاب والباك اند بالـ Nodejs
 
 </span>
 
-## من أنا؟
+## المهارات | Skills
 
 <div dir = ltr>
   
 ```js
-Database database;
-Person person = database.getInformationAbout("Ahmed El-Tabarani");
-cout << person.ToString();
-```
-#### Output:
-```swift
-Name: Ahmed Moustafa Kamal El-Deen El-Tabarani
-Age: 21
-University: Suez Canal University
-Faculty: Faculty of Computer and Information
-Dept: CS
-```
-</div>
-
-## مهاراتي
-
-<div dir = ltr>
-  
-```js
-Database database;
-Person person = database.getSkillsAbout("Ahmed El-Tabarani");
-cout << person.ToJSON();
+const URL = 'https://github.com/AhmedElTabarani'
+app.get(URL, (req, res) => {
+  res.json(getSkills('Ahmed El-Tabarani'))
+})
 ```
 #### Output:
 ```json
@@ -50,7 +32,7 @@ cout << person.ToJSON();
 ```
 </div>
 
-## احصائياتي 
+## احصائياتي | Stats
 
 <a href="https://github.com/AhmedElTabarani">
   <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElTabarani&theme=react&layout=compact"/>
@@ -62,15 +44,15 @@ cout << person.ToJSON();
 <div dir = ltr>
   
 ```js
-Quran quran("An-Nahl", 97);
-cout << quran.text("Arabic")  <<"\n\n"
-     << quran.text("English") <<'\n';
+app.get('/quran/an-nahl?verse=97', (req, res) => {
+  res.send(getVerse('an-nahl', 97)
+})
 ```
 #### Output:
 
 </div>
 
-<div align = "center" style="font-size:18px">
+<div align = "center">
   
 ```
 مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
