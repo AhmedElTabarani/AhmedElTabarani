@@ -17,7 +17,7 @@
 ```js
 const URL = 'https://github.com/AhmedElTabarani'
 app.get(URL, (req, res) => {
-  res.json(getSkills('Ahmed El-Tabarani'))
+  res.json(getSkills(URL))
 })
 ```
 #### Output:
@@ -44,8 +44,8 @@ app.get(URL, (req, res) => {
 <div dir = ltr>
   
 ```js
-app.get('/quran/an-nahl?verse=97', (req, res) => {
-  res.send(getVerse('an-nahl', 97)
+app.get('/quran?surat=an-nahl&verse=97', (req, res) => {
+  res.send(quran(req.query.surat, req.query.verse))
 })
 ```
 #### Output:
