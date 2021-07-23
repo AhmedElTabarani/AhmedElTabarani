@@ -5,8 +5,12 @@
 # السلام عليكم ورحمة الله وبركاته 
 
 درست علوم حاسب في جامعة قناة السويس  
-اسعى لتعلم كل ما هو جديد وأعلمه وافيد به نفسي والأخرين  
-مهتم بمجال الألعاب والباك اند بالـ Nodejs
+أسعي لتعلم كل ما هو جديد وأعلمه وأفيد به نفسي والآخرين  
+مهتم بمجال تطوير الألعاب والباك اند بالـ Nodejs   
+*------------------*  
+I studied computer science at Suez Canal University  
+I strive to learn everything new, teach it and benefit myself and others  
+Interested in the development of games and back-end Nodejs
 
 </span>
 
