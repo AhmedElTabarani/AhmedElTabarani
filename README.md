@@ -10,13 +10,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer, Backend developer
 ------------------------------------
 
-Software engineer interested in backend development using NodeJS. I started my programming career in 2017 with game development. Currently, I am learning and focusing on the backend and everything related to the world of backend development.
+Software engineer interested in backend development. I started my programming career in 2017 with game development. Currently, I am learning and focusing on the backend and everything related to the world of backend development.
 
 *   🌍  I'm based in Egypt
 *   🖥️  See my portfolio at [www.tabarani.tk](http://www.tabarani.tk/)
 *   ✉️  You can contact me at [eltabaraniahmed@gmail.com](mailto:eltabaraniahmed@gmail.com)
 *   🚀  I'm currently working on [New Article here](http://www.tabarani.tk/articles.html)
-*   🧠  I'm learning Nest.js
+*   🧠  I'm learning PHP Larave
 
 ### Skills 
 
@@ -30,6 +30,9 @@ Software engineer interested in backend development using NodeJS. I started my p
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
 </p>
                     
 
