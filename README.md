@@ -10,7 +10,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer, Backend developer
 ------------------------------------
 
-Software engineer interested in backend development. I started my programming career in 2017 with game development. Currently, I am learning and focusing on the backend and everything related to the world of backend development.
+I am a software engineer with a passion for backend development. I started in the world of programming in 2017 with game development. I participated in a game development competition and wrote articles about game programming.
+
+Then, I joined Suez Canal University in Ismailia, at the Faculty of Computers and Information, where I studied in the Computer Science department.
+
+After graduation, I shifted my focus to specializing in Backend development and studied and learned the fundamental concepts.
+
+Thank God, I joined various companies and projects and gained many friends, colleagues, enjoyment, and experience in this field.
+
+In addition to this, I love writing articles and summaries about what I excel at to simplify it for others and enrich Arabic content.
 
 *   🌍  I'm based in Egypt
 *   🖥️  See my portfolio at [www.tabarani.tk](http://www.tabarani.tk/)
